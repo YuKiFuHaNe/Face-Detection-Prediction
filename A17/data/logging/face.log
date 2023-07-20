@@ -1,0 +1,672 @@
+WARNING:root:安全提醒已关闭 / Security reminder is off                           / 2023-04-14 21:41:32.490727
+INFO:root:安全提醒已开启 / Security reminder is on                           / 2023-04-14 21:41:41.265019
+INFO:root:
+新建的人脸文件夹 / Create folders:    ./data/face/1 / 2023-04-14 21:43:23.520064
+INFO:root:写入本地 / Save into：./data/face/1/img_face_1.jpg                 / 2023-04-14 21:43:59.447719
+INFO:root:写入本地 / Save into：./data/face/1/img_face_2.jpg                 / 2023-04-14 21:44:00.337218
+INFO:root:写入本地 / Save into：./data/face/1/img_face_3.jpg                 / 2023-04-14 21:44:01.033521
+INFO:root:写入本地 / Save into：./data/face/1/img_face_4.jpg                 / 2023-04-14 21:44:01.724708
+INFO:root:写入本地 / Save into：./data/face/1/img_face_5.jpg                 / 2023-04-14 21:44:02.482251
+INFO:root:写入本地 / Save into：./data/face/1/img_face_6.jpg                 / 2023-04-14 21:44:03.071872
+INFO:root:写入本地 / Save into：./data/face/1/img_face_7.jpg                 / 2023-04-14 21:44:03.572703
+INFO:root:写入本地 / Save into：./data/face/1/img_face_8.jpg                 / 2023-04-14 21:44:04.026916
+INFO:root:写入本地 / Save into：./data/face/1/img_face_9.jpg                 / 2023-04-14 21:44:04.287403
+INFO:root:写入本地 / Save into：./data/face/1/img_face_10.jpg                / 2023-04-14 21:44:04.502189
+INFO:root:写入本地 / Save into：./data/face/1/img_face_11.jpg                / 2023-04-14 21:44:04.751019
+INFO:root:写入本地 / Save into：./data/face/1/img_face_12.jpg                / 2023-04-14 21:44:05.329657
+INFO:root:写入本地 / Save into：./data/face/1/img_face_13.jpg                / 2023-04-14 21:44:05.642883
+INFO:root:写入本地 / Save into：./data/face/1/img_face_14.jpg                / 2023-04-14 21:44:06.137242
+INFO:root:写入本地 / Save into：./data/face/1/img_face_15.jpg                / 2023-04-14 21:44:06.412591
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-14 21:44:23.992337
+INFO:root:新建features_all.csv / New File features_all.csv               / 2023-04-14 21:44:27.822775
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/1.jpg  / 2023-04-14 21:44:27.826294
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\1.jpg  / 2023-04-14 21:44:27.835372
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/10.jpg / 2023-04-14 21:44:28.311428
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\10.jpg / 2023-04-14 21:44:28.318876
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/11.jpg / 2023-04-14 21:44:28.783475
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\11.jpg / 2023-04-14 21:44:28.791104
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/12.jpg / 2023-04-14 21:44:29.259108
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\12.jpg / 2023-04-14 21:44:29.267427
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/13.jpg / 2023-04-14 21:44:29.736640
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\13.jpg / 2023-04-14 21:44:29.744083
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/14.jpg / 2023-04-14 21:44:30.214576
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\14.jpg / 2023-04-14 21:44:30.222618
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/15.jpg / 2023-04-14 21:44:30.679659
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\15.jpg / 2023-04-14 21:44:30.688322
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/2.jpg  / 2023-04-14 21:44:31.149768
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\2.jpg  / 2023-04-14 21:44:31.158401
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/3.jpg  / 2023-04-14 21:44:31.631303
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\3.jpg  / 2023-04-14 21:44:31.639011
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/4.jpg  / 2023-04-14 21:44:32.093655
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\4.jpg  / 2023-04-14 21:44:32.101415
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/5.jpg  / 2023-04-14 21:44:32.570863
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\5.jpg  / 2023-04-14 21:44:32.578580
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/6.jpg  / 2023-04-14 21:44:33.046507
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\6.jpg  / 2023-04-14 21:44:33.053117
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/7.jpg  / 2023-04-14 21:44:33.517141
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\7.jpg  / 2023-04-14 21:44:33.523889
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/8.jpg  / 2023-04-14 21:44:33.993540
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\8.jpg  / 2023-04-14 21:44:34.000783
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/9.jpg  / 2023-04-14 21:44:34.470422
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\9.jpg  / 2023-04-14 21:44:34.477261
+INFO:root:所有录入人脸数据存入 / Save all the features of faces registered into: data/face_csv/shape_predictor_68_face_landmarks.dat 2023-04-14 21:44:34.917151
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-14 21:45:21.094127
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/14/use0_21_45.jpg / 2023-04-14 21:45:21.800998
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/14/use0_mask_21_45.jpg / 2023-04-14 21:45:22.509329
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/14/use0_ROI_21_45.jpg / 2023-04-14 21:45:23.139895
+WARNING:root:重复播放 / repeat play                                           / 2023-04-14 21:51:49.210112
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-14 21:51:50.163487
+INFO:root:上传完成 / Upload completed:./data/recording/Unknow/2023/4/14/Unknow_21_51.jpg / 2023-04-14 21:51:50.977244
+INFO:root:上传完成 / Upload completed:./data/recording/Unknow/2023/4/14/Unknow_mask_21_51.jpg / 2023-04-14 21:51:53.939871
+WARNING:root:重复播放 / repeat play                                           / 2023-04-14 21:51:54.275997
+INFO:root:上传完成 / Upload completed:./data/recording/Unknow/2023/4/14/Unknow_ROI_21_51.jpg / 2023-04-14 21:51:54.828457
+WARNING:root:重复播放 / repeat play                                           / 2023-04-14 21:51:59.342377
+WARNING:root:重复播放 / repeat play                                           / 2023-04-14 21:52:04.409991
+WARNING:root:重复播放 / repeat play                                           / 2023-04-14 21:52:09.476787
+WARNING:root:重复播放 / repeat play                                           / 2023-04-14 21:52:14.542861
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-14 21:52:17.405343
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/14/use0_21_52.jpg / 2023-04-14 21:52:19.407729
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/14/use0_mask_21_52.jpg / 2023-04-14 21:52:20.189486
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/14/use0_ROI_21_52.jpg / 2023-04-14 21:52:21.720132
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-14 21:54:35.755910
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-14 21:56:18.044405
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-14 21:56:48.080799
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-14 21:56:49.444384
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-14 21:57:08.372666
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-14 21:57:20.473378
+INFO:root:
+新建的人脸文件夹 / Create folders:    ./data/face/2 / 2023-04-14 21:57:23.811588
+INFO:root:写入本地 / Save into：./data/face/2/img_face_1.jpg                 / 2023-04-14 21:57:35.789722
+INFO:root:写入本地 / Save into：./data/face/2/img_face_2.jpg                 / 2023-04-14 21:57:39.804606
+INFO:root:写入本地 / Save into：./data/face/2/img_face_3.jpg                 / 2023-04-14 21:57:40.314611
+INFO:root:写入本地 / Save into：./data/face/2/img_face_4.jpg                 / 2023-04-14 21:57:40.701389
+INFO:root:写入本地 / Save into：./data/face/2/img_face_5.jpg                 / 2023-04-14 21:57:41.104187
+INFO:root:写入本地 / Save into：./data/face/2/img_face_6.jpg                 / 2023-04-14 21:57:41.449951
+INFO:root:写入本地 / Save into：./data/face/2/img_face_7.jpg                 / 2023-04-14 21:57:41.820316
+INFO:root:写入本地 / Save into：./data/face/2/img_face_8.jpg                 / 2023-04-14 21:57:42.219534
+INFO:root:写入本地 / Save into：./data/face/2/img_face_9.jpg                 / 2023-04-14 21:57:42.589590
+INFO:root:写入本地 / Save into：./data/face/2/img_face_10.jpg                / 2023-04-14 21:57:42.954021
+INFO:root:写入本地 / Save into：./data/face/2/img_face_11.jpg                / 2023-04-14 21:57:43.344908
+INFO:root:写入本地 / Save into：./data/face/2/img_face_12.jpg                / 2023-04-14 21:57:43.856753
+INFO:root:写入本地 / Save into：./data/face/2/img_face_13.jpg                / 2023-04-14 21:57:44.246071
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-14 21:57:48.263418
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/1.jpg  / 2023-04-14 21:57:51.510820
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\1.jpg  / 2023-04-14 21:57:51.519138
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/10.jpg / 2023-04-14 21:57:51.994784
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\10.jpg / 2023-04-14 21:57:52.002183
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/11.jpg / 2023-04-14 21:57:52.506113
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\11.jpg / 2023-04-14 21:57:52.513643
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/12.jpg / 2023-04-14 21:57:53.003856
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\12.jpg / 2023-04-14 21:57:53.011333
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/13.jpg / 2023-04-14 21:57:53.492948
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\13.jpg / 2023-04-14 21:57:53.499872
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/2.jpg  / 2023-04-14 21:57:53.978974
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\2.jpg  / 2023-04-14 21:57:53.985472
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/3.jpg  / 2023-04-14 21:57:54.445119
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\3.jpg  / 2023-04-14 21:57:54.453424
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/4.jpg  / 2023-04-14 21:57:54.907335
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\4.jpg  / 2023-04-14 21:57:54.914346
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/5.jpg  / 2023-04-14 21:57:55.375677
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\5.jpg  / 2023-04-14 21:57:55.383835
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/6.jpg  / 2023-04-14 21:57:55.854203
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\6.jpg  / 2023-04-14 21:57:55.860503
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/7.jpg  / 2023-04-14 21:57:56.329332
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\7.jpg  / 2023-04-14 21:57:56.336173
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/8.jpg  / 2023-04-14 21:57:56.818899
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\8.jpg  / 2023-04-14 21:57:56.826360
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/9.jpg  / 2023-04-14 21:57:57.294273
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\9.jpg  / 2023-04-14 21:57:57.302397
+INFO:root:所有录入人脸数据存入 / Save all the features of faces registered into: data/face_csv/shape_predictor_68_face_landmarks.dat 2023-04-14 21:57:57.776953
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-14 21:58:16.149111
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/14/use1_21_58.jpg / 2023-04-14 21:58:17.200778
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/14/use1_mask_21_58.jpg / 2023-04-14 21:58:17.957251
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/14/use1_ROI_21_58.jpg / 2023-04-14 21:58:18.587655
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use1_21_58.jpg / 2023-04-14 22:01:20.174106
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use1_mask_21_58.jpg / 2023-04-14 22:01:20.498008
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use1_ROI_21_58.jpg / 2023-04-14 22:01:20.783287
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_21_52.jpg / 2023-04-14 22:01:21.220029
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_mask_21_52.jpg / 2023-04-14 22:01:21.360054
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_ROI_21_52.jpg / 2023-04-14 22:01:21.660505
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/14/Unknow_21_51.jpg / 2023-04-14 22:01:21.997867
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/14/Unknow_mask_21_51.jpg / 2023-04-14 22:01:22.145890
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/14/Unknow_ROI_21_51.jpg / 2023-04-14 22:01:22.417484
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_21_45.jpg / 2023-04-14 22:01:22.792827
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_mask_21_45.jpg / 2023-04-14 22:01:23.102369
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_ROI_21_45.jpg / 2023-04-14 22:01:23.422087
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-14 22:05:09.631027
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-14 22:35:41.221107
+
+
+
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-15 15:08:47.818480
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-15 15:08:59.711225
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-15 15:09:11.997940
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_15_9.jpg / 2023-04-15 15:09:12.168391
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_mask_15_9.jpg / 2023-04-15 15:09:12.554317
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_ROI_15_9.jpg / 2023-04-15 15:09:12.945454
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use2_13_59.jpg / 2023-04-15 15:09:15.719448
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use2_mask_13_59.jpg / 2023-04-15 15:09:15.985639
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use2_ROI_13_59.jpg / 2023-04-15 15:09:16.208457
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_13_42.jpg / 2023-04-15 15:09:16.519766
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_13_42.jpg / 2023-04-15 15:09:16.611723
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_13_42.jpg / 2023-04-15 15:09:16.863747
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_12_16.jpg / 2023-04-15 15:09:17.001512
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_12_16.jpg / 2023-04-15 15:09:17.096205
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_12_16.jpg / 2023-04-15 15:09:17.410457
+INFO:root:新建features_all.csv / New File features_all.csv               / 2023-04-15 15:13:22.880912
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/1.jpg  / 2023-04-15 15:13:22.883748
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\1.jpg  / 2023-04-15 15:13:22.892369
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/10.jpg / 2023-04-15 15:13:23.204108
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\10.jpg / 2023-04-15 15:13:23.211170
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/11.jpg / 2023-04-15 15:13:23.485692
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\11.jpg / 2023-04-15 15:13:23.487841
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/12.jpg / 2023-04-15 15:13:23.759323
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\12.jpg / 2023-04-15 15:13:23.768159
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/13.jpg / 2023-04-15 15:13:24.034968
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\13.jpg / 2023-04-15 15:13:24.042835
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/14.jpg / 2023-04-15 15:13:24.315844
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\14.jpg / 2023-04-15 15:13:24.318031
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/15.jpg / 2023-04-15 15:13:24.589863
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\15.jpg / 2023-04-15 15:13:24.598650
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/2.jpg  / 2023-04-15 15:13:24.864912
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\2.jpg  / 2023-04-15 15:13:24.867641
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/3.jpg  / 2023-04-15 15:13:25.136445
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\3.jpg  / 2023-04-15 15:13:25.137960
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/4.jpg  / 2023-04-15 15:13:25.408496
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\4.jpg  / 2023-04-15 15:13:25.410292
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/5.jpg  / 2023-04-15 15:13:25.680969
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\5.jpg  / 2023-04-15 15:13:25.683564
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/6.jpg  / 2023-04-15 15:13:25.963069
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\6.jpg  / 2023-04-15 15:13:25.965260
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/7.jpg  / 2023-04-15 15:13:26.255894
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\7.jpg  / 2023-04-15 15:13:26.257728
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/8.jpg  / 2023-04-15 15:13:26.533104
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\8.jpg  / 2023-04-15 15:13:26.535328
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/9.jpg  / 2023-04-15 15:13:26.812115
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\9.jpg  / 2023-04-15 15:13:26.814601
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/1.jpg  / 2023-04-15 15:13:27.094517
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\1.jpg  / 2023-04-15 15:13:27.097856
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/10.jpg / 2023-04-15 15:13:27.375745
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\10.jpg / 2023-04-15 15:13:27.378767
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/11.jpg / 2023-04-15 15:13:27.653579
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\11.jpg / 2023-04-15 15:13:27.655823
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/12.jpg / 2023-04-15 15:13:27.932091
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\12.jpg / 2023-04-15 15:13:27.934914
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/13.jpg / 2023-04-15 15:13:28.231918
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\13.jpg / 2023-04-15 15:13:28.237849
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/2.jpg  / 2023-04-15 15:13:28.520328
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\2.jpg  / 2023-04-15 15:13:28.523790
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/3.jpg  / 2023-04-15 15:13:28.796836
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\3.jpg  / 2023-04-15 15:13:28.800211
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/4.jpg  / 2023-04-15 15:13:29.070569
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\4.jpg  / 2023-04-15 15:13:29.072568
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/5.jpg  / 2023-04-15 15:13:29.347522
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\5.jpg  / 2023-04-15 15:13:29.349569
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/6.jpg  / 2023-04-15 15:13:29.624630
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\6.jpg  / 2023-04-15 15:13:29.626499
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/7.jpg  / 2023-04-15 15:13:29.895821
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\7.jpg  / 2023-04-15 15:13:29.898622
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/8.jpg  / 2023-04-15 15:13:30.170529
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\8.jpg  / 2023-04-15 15:13:30.173571
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/9.jpg  / 2023-04-15 15:13:30.447859
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\9.jpg  / 2023-04-15 15:13:30.450975
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-15 20:15:22.539658
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-15 20:15:26.259245
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-15 20:17:14.713024
+
+
+
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-15 20:17:53.240677
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-15 20:17:54.954327
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-15 20:17:58.032246
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-15 20:18:02.572233
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-15 20:19:17.921781
+INFO:root:新建features_all.csv / New File features_all.csv               / 2023-04-15 20:19:54.770619
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/1.jpg  / 2023-04-15 20:19:54.773400
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\1.jpg  / 2023-04-15 20:19:54.778372
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/10.jpg / 2023-04-15 20:19:55.214616
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\10.jpg / 2023-04-15 20:19:55.216989
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/11.jpg / 2023-04-15 20:19:55.644978
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\11.jpg / 2023-04-15 20:19:55.653594
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/12.jpg / 2023-04-15 20:19:56.082702
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\12.jpg / 2023-04-15 20:19:56.084895
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/13.jpg / 2023-04-15 20:19:56.510461
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\13.jpg / 2023-04-15 20:19:56.518538
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/14.jpg / 2023-04-15 20:19:56.945102
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\14.jpg / 2023-04-15 20:19:56.952854
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/15.jpg / 2023-04-15 20:19:57.376289
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\15.jpg / 2023-04-15 20:19:57.384758
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/2.jpg  / 2023-04-15 20:19:57.814633
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\2.jpg  / 2023-04-15 20:19:57.822442
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/3.jpg  / 2023-04-15 20:19:58.248624
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\3.jpg  / 2023-04-15 20:19:58.256425
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/4.jpg  / 2023-04-15 20:19:58.680883
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\4.jpg  / 2023-04-15 20:19:58.689491
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/5.jpg  / 2023-04-15 20:19:59.118390
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\5.jpg  / 2023-04-15 20:19:59.127180
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/6.jpg  / 2023-04-15 20:19:59.554626
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\6.jpg  / 2023-04-15 20:19:59.561642
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/7.jpg  / 2023-04-15 20:19:59.992993
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\7.jpg  / 2023-04-15 20:20:00.001492
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/8.jpg  / 2023-04-15 20:20:00.424184
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\8.jpg  / 2023-04-15 20:20:00.432181
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/9.jpg  / 2023-04-15 20:20:00.858393
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\9.jpg  / 2023-04-15 20:20:00.866638
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/1.jpg  / 2023-04-15 20:20:01.292993
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\1.jpg  / 2023-04-15 20:20:01.301327
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/10.jpg / 2023-04-15 20:20:01.727140
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\10.jpg / 2023-04-15 20:20:01.736228
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/11.jpg / 2023-04-15 20:20:02.165632
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\11.jpg / 2023-04-15 20:20:02.173592
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/12.jpg / 2023-04-15 20:20:02.598753
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\12.jpg / 2023-04-15 20:20:02.606233
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/13.jpg / 2023-04-15 20:20:03.034756
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\13.jpg / 2023-04-15 20:20:03.036980
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/2.jpg  / 2023-04-15 20:20:03.463678
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\2.jpg  / 2023-04-15 20:20:03.471723
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/3.jpg  / 2023-04-15 20:20:03.896888
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\3.jpg  / 2023-04-15 20:20:03.899704
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/4.jpg  / 2023-04-15 20:20:04.325182
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\4.jpg  / 2023-04-15 20:20:04.327203
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/5.jpg  / 2023-04-15 20:20:04.753246
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\5.jpg  / 2023-04-15 20:20:04.761416
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/6.jpg  / 2023-04-15 20:20:05.187415
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\6.jpg  / 2023-04-15 20:20:05.195518
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/7.jpg  / 2023-04-15 20:20:05.621645
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\7.jpg  / 2023-04-15 20:20:05.624101
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/8.jpg  / 2023-04-15 20:20:06.052513
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\8.jpg  / 2023-04-15 20:20:06.059039
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\2/9.jpg  / 2023-04-15 20:20:06.487253
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\2\9.jpg  / 2023-04-15 20:20:06.494952
+INFO:root:所有录入人脸数据存入 / Save all the features of faces registered into: data/face_csv/shape_predictor_68_face_landmarks.dat 2023-04-15 20:20:06.922487
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_15_9.jpg / 2023-04-15 20:20:09.541112
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_15_9.jpg / 2023-04-15 20:20:09.631087
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_15_9.jpg / 2023-04-15 20:20:09.724617
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use2_13_59.jpg / 2023-04-15 20:20:10.008710
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use2_mask_13_59.jpg / 2023-04-15 20:20:10.269856
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use2_ROI_13_59.jpg / 2023-04-15 20:20:10.525217
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_13_42.jpg / 2023-04-15 20:20:10.649968
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_13_42.jpg / 2023-04-15 20:20:10.738027
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_13_42.jpg / 2023-04-15 20:20:10.991390
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_12_16.jpg / 2023-04-15 20:20:11.100655
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_12_16.jpg / 2023-04-15 20:20:11.357199
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_12_16.jpg / 2023-04-15 20:20:11.660705
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use1_21_58.jpg / 2023-04-15 20:20:11.803807
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use1_mask_21_58.jpg / 2023-04-15 20:20:11.901088
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use1_ROI_21_58.jpg / 2023-04-15 20:20:12.168701
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_21_52.jpg / 2023-04-15 20:20:12.301352
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_mask_21_52.jpg / 2023-04-15 20:20:12.394220
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_ROI_21_52.jpg / 2023-04-15 20:20:12.486495
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/14/Unknow_21_51.jpg / 2023-04-15 20:20:12.831423
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/14/Unknow_mask_21_51.jpg / 2023-04-15 20:20:13.097199
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/14/Unknow_ROI_21_51.jpg / 2023-04-15 20:20:13.359476
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_21_45.jpg / 2023-04-15 20:20:13.497479
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_mask_21_45.jpg / 2023-04-15 20:20:13.591249
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_ROI_21_45.jpg / 2023-04-15 20:20:13.860163
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-15 20:20:52.865413
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_20_20.jpg / 2023-04-15 20:20:54.688500
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_mask_20_20.jpg / 2023-04-15 20:20:55.130747
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_ROI_20_20.jpg / 2023-04-15 20:20:55.569924
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-15 20:21:07.842927
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-15 20:29:34.991128
+
+
+
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-15 20:36:09.594381
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_20_36.jpg / 2023-04-15 20:36:10.692411
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_mask_20_36.jpg / 2023-04-15 20:36:11.080566
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_ROI_20_36.jpg / 2023-04-15 20:36:11.467918
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-15 20:36:29.605209
+
+
+
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-15 20:43:34.775203
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-15 20:43:35.710699
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-15 20:43:44.397009
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_20_43.jpg / 2023-04-15 20:43:46.183290
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_mask_20_43.jpg / 2023-04-15 20:43:48.085051
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_ROI_20_43.jpg / 2023-04-15 20:43:48.507796
+WARNING:root:重复播放 / repeat play                                           / 2023-04-15 20:48:00.305965
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-15 20:48:00.348652
+INFO:root:上传完成 / Upload completed:./data/recording/Unknow/2023/4/15/Unknow_20_47.jpg / 2023-04-15 20:48:00.691251
+INFO:root:上传完成 / Upload completed:./data/recording/Unknow/2023/4/15/Unknow_mask_20_47.jpg / 2023-04-15 20:48:01.052993
+INFO:root:上传完成 / Upload completed:./data/recording/Unknow/2023/4/15/Unknow_ROI_20_47.jpg / 2023-04-15 20:48:01.478478
+WARNING:root:重复播放 / repeat play                                           / 2023-04-15 20:48:05.363194
+WARNING:root:重复播放 / repeat play                                           / 2023-04-15 20:48:10.433926
+WARNING:root:重复播放 / repeat play                                           / 2023-04-15 20:48:15.504255
+WARNING:root:重复播放 / repeat play                                           / 2023-04-15 20:48:20.903572
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-15 20:48:25.711794
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_20_48.jpg / 2023-04-15 20:48:27.944029
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_mask_20_48.jpg / 2023-04-15 20:48:28.723590
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/15/use0_ROI_20_48.jpg / 2023-04-15 20:48:29.130006
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-15 20:49:42.085679
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-15 20:49:42.640294
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-16 22:25:12.072222
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-16 22:25:12.928405
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-21 17:40:38.107135
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-21 17:41:49.272115
+
+
+
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_16_47.jpg / 2023-04-21 17:42:55.942016
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_mask_16_47.jpg / 2023-04-21 17:42:56.210925
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_ROI_16_47.jpg / 2023-04-21 17:42:56.431001
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_16_38.jpg / 2023-04-21 17:42:56.575794
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_mask_16_38.jpg / 2023-04-21 17:42:56.670445
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_ROI_16_38.jpg / 2023-04-21 17:42:56.922005
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_16_37.jpg / 2023-04-21 17:42:57.251249
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_mask_16_37.jpg / 2023-04-21 17:42:57.518341
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_ROI_16_37.jpg / 2023-04-21 17:42:57.604361
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_16_36.jpg / 2023-04-21 17:42:57.750948
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_mask_16_36.jpg / 2023-04-21 17:42:58.042237
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_ROI_16_36.jpg / 2023-04-21 17:42:58.132854
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-21 17:43:13.113412
+
+
+
+WARNING:root:安全提醒已关闭 / Security reminder is off                           / 2023-04-21 17:44:51.963781
+INFO:root:安全提醒已开启 / Security reminder is on                           / 2023-04-21 17:44:54.588799
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-21 17:44:59.469998
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-21 17:45:02.240594
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-21 17:45:26.449917
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/21/use0_17_45.jpg / 2023-04-21 17:45:28.202939
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/21/use0_mask_17_45.jpg / 2023-04-21 17:45:31.335764
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/21/use0_ROI_17_45.jpg / 2023-04-21 17:45:32.605814
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-21 17:45:56.673450
+
+
+
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-21 17:49:32.527354
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-21 17:50:41.342408
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-21 17:50:55.421287
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-21 17:51:00.862361
+INFO:root:用户人脸个数 / Number of existing users :2                         / 2023-04-21 17:51:12.087290
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-21 17:51:15.792300
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-21 17:51:16.106140
+
+
+
+INFO:root:
+新建的人脸文件夹 / Create folders:    ./data/face/1 / 2023-04-21 17:51:46.125618
+INFO:root:写入本地 / Save into：./data/face/1/img_face_1.jpg                 / 2023-04-21 17:51:49.195080
+INFO:root:
+新建的人脸文件夹 / Create folders:    ./data/face/1 / 2023-04-21 17:52:35.944046
+INFO:root:写入本地 / Save into：./data/face/1/img_face_1.jpg                 / 2023-04-21 17:52:38.275458
+INFO:root:写入本地 / Save into：./data/face/1/img_face_2.jpg                 / 2023-04-21 17:52:38.950585
+INFO:root:写入本地 / Save into：./data/face/1/img_face_3.jpg                 / 2023-04-21 17:52:39.506651
+INFO:root:写入本地 / Save into：./data/face/1/img_face_4.jpg                 / 2023-04-21 17:52:43.696198
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-21 17:52:57.017573
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-21 17:52:58.232271
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-21 17:56:50.930460
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-21 18:28:23.397504
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-21 18:28:25.320878
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/1.jpg  / 2023-04-21 18:28:29.319674
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\1.jpg  / 2023-04-21 18:28:29.331687
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/2.jpg  / 2023-04-21 18:28:29.751157
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\2.jpg  / 2023-04-21 18:28:29.755884
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/3.jpg  / 2023-04-21 18:28:30.174525
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\3.jpg  / 2023-04-21 18:28:30.178273
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/4.jpg  / 2023-04-21 18:28:30.594085
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\4.jpg  / 2023-04-21 18:28:30.599120
+INFO:root:所有录入人脸数据存入 / Save all the features of faces registered into: data/face_csv/shape_predictor_68_face_landmarks.dat 2023-04-21 18:28:31.020573
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-21 18:28:39.299887
+
+
+
+INFO:root:新建features_all.csv / New File features_all.csv               / 2023-04-21 18:28:59.377238
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/1.jpg  / 2023-04-21 18:28:59.380248
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\1.jpg  / 2023-04-21 18:28:59.381248
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/2.jpg  / 2023-04-21 18:28:59.804392
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\2.jpg  / 2023-04-21 18:28:59.805397
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/3.jpg  / 2023-04-21 18:29:00.223474
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\3.jpg  / 2023-04-21 18:29:00.224942
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/4.jpg  / 2023-04-21 18:29:00.649928
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\4.jpg  / 2023-04-21 18:29:00.650933
+INFO:root:所有录入人脸数据存入 / Save all the features of faces registered into: data/face_csv/shape_predictor_68_face_landmarks.dat 2023-04-21 18:29:01.069802
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-21 18:29:06.972583
+
+
+
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-21 18:29:23.809606
+INFO:root:新建features_all.csv / New File features_all.csv               / 2023-04-21 18:29:29.837909
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/1.jpg  / 2023-04-21 18:29:29.840428
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\1.jpg  / 2023-04-21 18:29:29.842119
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/2.jpg  / 2023-04-21 18:29:29.866761
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\2.jpg  / 2023-04-21 18:29:29.868274
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/3.jpg  / 2023-04-21 18:29:30.342324
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\3.jpg  / 2023-04-21 18:29:30.343333
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/4.jpg  / 2023-04-21 18:29:30.772536
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\4.jpg  / 2023-04-21 18:29:30.774043
+INFO:root:所有录入人脸数据存入 / Save all the features of faces registered into: data/face_csv/shape_predictor_68_face_landmarks.dat 2023-04-21 18:29:30.804274
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-21 18:30:06.902682
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-21 18:30:07.656242
+INFO:root:新建features_all.csv / New File features_all.csv               / 2023-04-21 18:30:08.792831
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/1.jpg  / 2023-04-21 18:30:08.794615
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\1.jpg  / 2023-04-21 18:30:08.796538
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/2.jpg  / 2023-04-21 18:30:09.219891
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\2.jpg  / 2023-04-21 18:30:09.220921
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/3.jpg  / 2023-04-21 18:30:09.641449
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\3.jpg  / 2023-04-21 18:30:09.643454
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/4.jpg  / 2023-04-21 18:30:10.067077
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\4.jpg  / 2023-04-21 18:30:10.068077
+INFO:root:所有录入人脸数据存入 / Save all the features of faces registered into: data/face_csv/shape_predictor_68_face_landmarks.dat 2023-04-21 18:30:10.494413
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-21 18:32:09.331701
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/21/use0_18_32.jpg / 2023-04-21 18:32:10.782361
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/21/use0_mask_18_32.jpg / 2023-04-21 18:32:11.234168
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/21/use0_ROI_18_32.jpg / 2023-04-21 18:32:11.608961
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-21 18:36:41.400277
+
+
+
+WARNING:root:安全提醒已关闭 / Security reminder is off                           / 2023-04-21 18:39:59.160473
+INFO:root:安全提醒已开启 / Security reminder is on                           / 2023-04-21 18:40:06.065739
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-21 18:40:54.577265
+
+
+
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-21 18:42:31.135251
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-21 18:42:32.725043
+INFO:root:用户人脸个数 / Number of existing users :1                         / 2023-04-21 18:43:45.762384
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-21 18:44:39.433114
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/21/use0_18_44.jpg / 2023-04-21 18:44:41.706179
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/21/use0_mask_18_44.jpg / 2023-04-21 18:44:44.445215
+INFO:root:上传完成 / Upload completed:./data/recording/use/2023/4/21/use0_ROI_18_44.jpg / 2023-04-21 18:44:44.836640
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-22 22:18:41.066190
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-23 22:03:17.699236
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:12:49.262893
+
+
+
+WARNING:root:安全提醒已关闭 / Security reminder is off                           / 2023-04-24 16:13:43.261237
+INFO:root:
+新建的人脸文件夹 / Create folders:    ./data/face/1 / 2023-04-24 16:18:44.133124
+INFO:root:写入本地 / Save into：./data/face/1/img_face_1.jpg                 / 2023-04-24 16:18:46.512771
+INFO:root:写入本地 / Save into：./data/face/1/img_face_2.jpg                 / 2023-04-24 16:18:47.370434
+INFO:root:写入本地 / Save into：./data/face/1/img_face_3.jpg                 / 2023-04-24 16:18:48.041737
+INFO:root:写入本地 / Save into：./data/face/1/img_face_4.jpg                 / 2023-04-24 16:18:48.603769
+INFO:root:写入本地 / Save into：./data/face/1/img_face_5.jpg                 / 2023-04-24 16:18:49.154531
+INFO:root:写入本地 / Save into：./data/face/1/img_face_6.jpg                 / 2023-04-24 16:18:49.867865
+INFO:root:写入本地 / Save into：./data/face/1/img_face_7.jpg                 / 2023-04-24 16:18:50.371989
+INFO:root:写入本地 / Save into：./data/face/1/img_face_8.jpg                 / 2023-04-24 16:18:50.974106
+INFO:root:写入本地 / Save into：./data/face/1/img_face_9.jpg                 / 2023-04-24 16:18:51.561979
+INFO:root:写入本地 / Save into：./data/face/1/img_face_10.jpg                / 2023-04-24 16:18:52.059286
+INFO:root:写入本地 / Save into：./data/face/1/img_face_11.jpg                / 2023-04-24 16:18:52.537009
+INFO:root:写入本地 / Save into：./data/face/1/img_face_12.jpg                / 2023-04-24 16:18:53.069290
+INFO:root:人脸录入已关闭 / Face entry is turned off                           / 2023-04-24 16:20:01.593827
+INFO:root:新建features_all.csv / New File features_all.csv               / 2023-04-24 16:20:09.252195
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/1.jpg  / 2023-04-24 16:20:09.254195
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\1.jpg  / 2023-04-24 16:20:09.260191
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/10.jpg / 2023-04-24 16:20:09.717442
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\10.jpg / 2023-04-24 16:20:09.723088
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/11.jpg / 2023-04-24 16:20:10.150854
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\11.jpg / 2023-04-24 16:20:10.155860
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/12.jpg / 2023-04-24 16:20:10.591822
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\12.jpg / 2023-04-24 16:20:10.596833
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/2.jpg  / 2023-04-24 16:20:11.026057
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\2.jpg  / 2023-04-24 16:20:11.031126
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/3.jpg  / 2023-04-24 16:20:11.463156
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\3.jpg  / 2023-04-24 16:20:11.468695
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/4.jpg  / 2023-04-24 16:20:11.904340
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\4.jpg  / 2023-04-24 16:20:11.908875
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/5.jpg  / 2023-04-24 16:20:12.353860
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\5.jpg  / 2023-04-24 16:20:12.358635
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/6.jpg  / 2023-04-24 16:20:12.817997
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\6.jpg  / 2023-04-24 16:20:12.823191
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/7.jpg  / 2023-04-24 16:20:13.256053
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\7.jpg  / 2023-04-24 16:20:13.261576
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/8.jpg  / 2023-04-24 16:20:13.697844
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\8.jpg  / 2023-04-24 16:20:13.703003
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/9.jpg  / 2023-04-24 16:20:14.134377
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\9.jpg  / 2023-04-24 16:20:14.139929
+INFO:root:所有录入人脸数据存入 / Save all the features of faces registered into: data/face_csv/shape_predictor_68_face_landmarks.dat 2023-04-24 16:20:14.574090
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:22:36.555179
+
+
+
+INFO:root:新建features_all.csv / New File features_all.csv               / 2023-04-24 16:23:12.289703
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/1.jpg  / 2023-04-24 16:23:12.290703
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\1.jpg  / 2023-04-24 16:23:12.292210
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/10.jpg / 2023-04-24 16:23:12.729050
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\10.jpg / 2023-04-24 16:23:12.731079
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/11.jpg / 2023-04-24 16:23:13.155439
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\11.jpg / 2023-04-24 16:23:13.156439
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/12.jpg / 2023-04-24 16:23:13.579696
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\12.jpg / 2023-04-24 16:23:13.580697
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/2.jpg  / 2023-04-24 16:23:14.005484
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\2.jpg  / 2023-04-24 16:23:14.006483
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/3.jpg  / 2023-04-24 16:23:14.434359
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\3.jpg  / 2023-04-24 16:23:14.435363
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/4.jpg  / 2023-04-24 16:23:14.854715
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\4.jpg  / 2023-04-24 16:23:14.855715
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/5.jpg  / 2023-04-24 16:23:15.282763
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\5.jpg  / 2023-04-24 16:23:15.284613
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/6.jpg  / 2023-04-24 16:23:15.702439
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\6.jpg  / 2023-04-24 16:23:15.704213
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/7.jpg  / 2023-04-24 16:23:16.131069
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\7.jpg  / 2023-04-24 16:23:16.132573
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/8.jpg  / 2023-04-24 16:23:16.557849
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\8.jpg  / 2023-04-24 16:23:16.559640
+INFO:root:正在读的人脸图像 / Reading image:                                    ./data/face\1/9.jpg  / 2023-04-24 16:23:16.981069
+INFO:root:检测到人脸的图像 / Image with faces detected:                        ./data/face\1\9.jpg  / 2023-04-24 16:23:16.983618
+INFO:root:所有录入人脸数据存入 / Save all the features of faces registered into: data/face_csv/shape_predictor_68_face_landmarks.dat 2023-04-24 16:23:17.415213
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-24 16:24:57.609071
+INFO:root:数据上传成功 / Data uploaded successfully      / 2023-04-24 16:25:45.460926
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:29:07.784923
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:30:22.220683
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:31:13.914595
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:31:41.560614
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:32:08.305869
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:34:00.018265
+
+
+
+INFO:root:下载失败 / Download failed:./data/recording/use/2023/4/24/use0_16_25.jpg / 2023-04-24 16:35:34.110078
+INFO:root:下载失败 / Download failed:./data/recording/use/2023/4/24/use0_mask_16_25.jpg / 2023-04-24 16:35:34.154210
+INFO:root:下载失败 / Download failed:./data/recording/use/2023/4/24/use0_ROI_16_25.jpg / 2023-04-24 16:35:34.195894
+INFO:root:下载失败 / Download failed:./data/recording/use/2023/4/24/use0_16_24.jpg / 2023-04-24 16:35:34.312443
+INFO:root:下载失败 / Download failed:./data/recording/use/2023/4/24/use0_mask_16_24.jpg / 2023-04-24 16:35:34.365208
+INFO:root:下载失败 / Download failed:./data/recording/use/2023/4/24/use0_ROI_16_24.jpg / 2023-04-24 16:35:34.426038
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/21/use0_18_44.jpg / 2023-04-24 16:35:34.776963
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/21/use0_mask_18_44.jpg / 2023-04-24 16:35:34.882510
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/21/use0_ROI_18_44.jpg / 2023-04-24 16:35:35.174936
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/21/use0_18_32.jpg / 2023-04-24 16:35:35.544408
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/21/use0_mask_18_32.jpg / 2023-04-24 16:35:35.825674
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/21/use0_ROI_18_32.jpg / 2023-04-24 16:35:36.071983
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/21/use0_17_45.jpg / 2023-04-24 16:35:36.416880
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/21/use0_mask_17_45.jpg / 2023-04-24 16:35:36.517933
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/21/use0_ROI_17_45.jpg / 2023-04-24 16:35:38.270127
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_16_47.jpg / 2023-04-24 16:35:38.623873
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_mask_16_47.jpg / 2023-04-24 16:35:38.725439
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_ROI_16_47.jpg / 2023-04-24 16:35:38.819825
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_16_38.jpg / 2023-04-24 16:35:38.958105
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_mask_16_38.jpg / 2023-04-24 16:35:39.226220
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_ROI_16_38.jpg / 2023-04-24 16:35:39.484803
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_16_37.jpg / 2023-04-24 16:35:39.848056
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_mask_16_37.jpg / 2023-04-24 16:35:40.134265
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_ROI_16_37.jpg / 2023-04-24 16:35:40.231233
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_16_36.jpg / 2023-04-24 16:35:40.566705
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_mask_16_36.jpg / 2023-04-24 16:35:40.866592
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/18/use1_ROI_16_36.jpg / 2023-04-24 16:35:40.973319
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_20_48.jpg / 2023-04-24 16:35:41.145157
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_20_48.jpg / 2023-04-24 16:35:41.249458
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_20_48.jpg / 2023-04-24 16:35:41.546902
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/15/Unknow_20_47.jpg / 2023-04-24 16:35:41.706606
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/15/Unknow_mask_20_47.jpg / 2023-04-24 16:35:41.806854
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/15/Unknow_ROI_20_47.jpg / 2023-04-24 16:35:41.919077
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_20_43.jpg / 2023-04-24 16:35:42.267548
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_20_43.jpg / 2023-04-24 16:35:42.534889
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_20_43.jpg / 2023-04-24 16:35:42.630379
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_15_9.jpg / 2023-04-24 16:35:42.769849
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_15_9.jpg / 2023-04-24 16:35:43.043315
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_15_9.jpg / 2023-04-24 16:35:43.336763
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use2_13_59.jpg / 2023-04-24 16:35:43.493977
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use2_mask_13_59.jpg / 2023-04-24 16:35:43.603855
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use2_ROI_13_59.jpg / 2023-04-24 16:35:43.876417
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_13_42.jpg / 2023-04-24 16:35:45.586732
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_13_42.jpg / 2023-04-24 16:35:45.684627
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_13_42.jpg / 2023-04-24 16:35:46.006006
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_12_16.jpg / 2023-04-24 16:35:47.729268
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_mask_12_16.jpg / 2023-04-24 16:35:47.843477
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/15/use0_ROI_12_16.jpg / 2023-04-24 16:35:48.128653
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use1_21_58.jpg / 2023-04-24 16:35:48.262968
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use1_mask_21_58.jpg / 2023-04-24 16:35:48.352974
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use1_ROI_21_58.jpg / 2023-04-24 16:35:48.630410
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_21_52.jpg / 2023-04-24 16:35:48.775737
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_mask_21_52.jpg / 2023-04-24 16:35:49.106647
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_ROI_21_52.jpg / 2023-04-24 16:35:49.200204
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/14/Unknow_21_51.jpg / 2023-04-24 16:35:49.596087
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/14/Unknow_mask_21_51.jpg / 2023-04-24 16:35:49.689921
+INFO:root:下载完成 / Download completed:./data/recording/Unknow/2023/4/14/Unknow_ROI_21_51.jpg / 2023-04-24 16:35:49.975626
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_21_45.jpg / 2023-04-24 16:35:50.355352
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_mask_21_45.jpg / 2023-04-24 16:35:50.615361
+INFO:root:下载完成 / Download completed:./data/recording/use/2023/4/14/use0_ROI_21_45.jpg / 2023-04-24 16:35:50.896676
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:36:12.135625
+
+
+
+INFO:root:正常退出程序 / The program has exited normally                     / 2023-04-24 16:37:34.416265
+
+
+
